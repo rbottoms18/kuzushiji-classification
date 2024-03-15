@@ -1,12 +1,7 @@
 Ronan Bottoms
 
 This assignment was completed as a cumulative final assignment for AMATH 582 with Prof. Shlizerman
-at the University of Washington, Winter 2024.
-
-Abstract
-A K-Nearest Neighbors Classifier, a Fully Connected Neural Network, and a Convolutional Neural Network are applied
-to the classification of a large, unbalanced dataset of images of kuzushiji. The analysis focuses on testing accuracy
-and testing runtime as well as the effects of dimension reduction on both accuracy and runtime.
+at the University of Washington, Winter 2024. The writeup of the assignment can be read in report.pdf.
 
 ----------------------------------------------
 
