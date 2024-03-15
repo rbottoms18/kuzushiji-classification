@@ -1,7 +1,7 @@
 Ronan Bottoms
 
 This assignment was completed as a cumulative final assignment for AMATH 582 with Prof. Shlizerman
-at the University of Washington, Winter 2024.
+at the University of Washington, Winter 2024. The writeup of the assignment can be read in report.pdf
 
 Abstract
 A K-Nearest Neighbors Classifier, a Fully Connected Neural Network, and a Convolutional Neural Network are applied
