@@ -1,0 +1,20 @@
+Ronan Bottoms
+AMATH 582
+
+Abstract
+A K-Nearest Neighbors Classifier, a Fully Connected Neural Network, and a Convolutional Neural Network are applied
+to the classification of a large, unbalanced dataset of images of kuzushiji. The analysis focuses on testing accuracy
+and testing runtime as well as the effects of dimension reduction on both accuracy and runtime.
+
+----------------------------------------------
+
+The scripts in this project require the Kuzushiji-MNIST dataset given here (Version 3):
+https://www.kaggle.com/datasets/anokas/kuzushiji
+
+To run the scripts, please download the data and extract all of it to a folder named Data
+in the same directory.
+
+
+Attestation
+"KMNIST Dataset" (created by CODH), adapted from "Kuzushiji Dataset" (created by NIJL and others), 
+doi:10.20676/00000341
