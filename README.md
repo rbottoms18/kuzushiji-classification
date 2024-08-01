@@ -1,3 +1,5 @@
+[The following is an exerpt from `report.pdf`. View the document to see the full results and plots.]
+
 # About
 
 The Japanese language uses two alphabets in addition to Chinese characters. “Letters” in these alphabets
