@@ -7,6 +7,10 @@ represented by not only 安 , but also 阿 and 愛. Cursive or sloppy penmanship
 versions of the characters, like how 安 morphed into the modern day あ . These obsolete or antiquated short
 form Chinese characters are referred to as kuzushiji ( 崩し字 [lit. crumbling/destroyed character]).
 
+<p align="center">
+  <img src="https://github.com/rbottoms18/kuzushiji-classification/blob/master/Results/first_100.png" width="400"/>
+</p>
+
 Nowadays, only one form of each letter exists. But if one wants to read a historical document written prior
 to 1900, a knowledge of the many old forms of letters is necessary. For a layperson, or someone whose native
 language is not Japanese, learning these different forms may be difficult and time-consuming, especially if
