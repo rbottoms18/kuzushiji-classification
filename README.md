@@ -1,4 +1,4 @@
-# Introduction
+# About
 
 The Japanese language uses two alphabets in addition to Chinese characters. “Letters” in these alphabets
 originally derived from Chinese characters themselves, often times with multiple different characters representing the same sound. 
